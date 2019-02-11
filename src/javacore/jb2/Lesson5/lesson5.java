@@ -1,4 +1,4 @@
-package javacore.jb2;
+package javacore.jb2.Lesson5;
 
 
 /**1. Необходимо написать два метода, которые делают следующее:
