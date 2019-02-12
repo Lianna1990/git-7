@@ -1,4 +1,4 @@
-package javacore.jb2.Lesson5;
+package javacore.jb2.lessons;
 
 public class MainClass {
     public static void main(String[] args) {

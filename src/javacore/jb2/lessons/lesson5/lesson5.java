@@ -1,7 +1,7 @@
-package javacore.jb2.Lesson5.lesson5;
+package javacore.jb2.lessons.lesson5;
 
 
-import javacore.jb2.Lesson5.MainClass;
+import javacore.jb2.lessons.MainClass;
 
 /**1. Необходимо написать два метода, которые делают следующее:
  1) Создают одномерный длинный массив, например:

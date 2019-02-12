@@ -1,4 +1,4 @@
-package javacore.jb2.Lesson5.lesson6;
+package javacore.jb2.lessons.lesson6;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
